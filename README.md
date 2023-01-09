@@ -3,7 +3,7 @@ React dynamic useContext, useReducer and React Testing Library
 
 This is the code of the following article:
 
-[React dynamic useContext, useReducer and React Testing Library](https://medium.com/p/852cdc1f20bb/edit)
+[React dynamic useContext, useReducer and React Testing Library](https://medium.com/@mossen/react-dynamic-usecontext-usereducer-and-react-testing-library-852cdc1f20bb)
 
 ## Run:
   ``` 
